@@ -1,4 +1,4 @@
-# SMIT C++ Workshop 2026 — Day 1: C++ Foundation
+# SMIT C++ Workshop 2026 
 
 Comprehensive notes, code snippets, and hands-on exercises from Day 1 of the C++ Foundation Workshop conducted by **Recursion Club, SMIT**.
 
